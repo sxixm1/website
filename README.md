@@ -55,3 +55,6 @@ I wanna ブッイキス!! てめーらブッイキス!!
 もういっそ 俺に生まれたなら
 君をぶっ生き返す!!
 君をぶっ生き返す!!
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
